@@ -29,3 +29,6 @@ ven/
 
 # Logs
 *.log
+
+# Ignorar archivos de datos pesados
+*.pkl
